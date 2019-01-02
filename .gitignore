@@ -1,3 +1,3 @@
-conf/credential.js
+conf/credentials.js
 node_modules
-tweets.csv
+files/tweets.csv
