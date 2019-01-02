@@ -1,5 +1,6 @@
-#Old tweets cleaner
-###Node.js module for deleting tweets based on a .csv archive file from Twitter
+**Old tweets cleaner**
+--
+Node.js module for deleting tweets based on a .csv archive file from Twitter
 
 Specify a date, and watch all the tweets older than this date get deleted. 
 
