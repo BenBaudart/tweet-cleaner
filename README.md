@@ -27,7 +27,7 @@ $ npm install
 
 * Edit the file "credentials-template.js" with your [Twitter App tokens](https://developer.twitter.com/en/apps)
 * Save it as "credentials.js" in the "conf" folder
-* Copy your tweets.csv file into the "files" folder
+* Copy your tweets.csv file (from your downloaded archive) into the "files" folder, next to the "tweets-template.csv" file
 
 
 **3 - Start the process**
